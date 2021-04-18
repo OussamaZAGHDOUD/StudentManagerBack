@@ -1,0 +1,10 @@
+Post :
+http://localhost:9090/student/add
+
+{
+"name":"oussama",
+"email":"oussama@gmail.com",
+"className":"GLSI",
+"phone":"27652211",
+"imageUrl":"https://www.bootdey.com/img/Content/avatar/avatar1.png"
+}
